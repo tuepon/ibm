@@ -1,4 +1,8 @@
 # ibm
-This is an assignment on the "Python Project For Data Science" course.
-This course is provided by Coursera. This is a proof of completion.
-I am so happy to complete this hard course. Thank you!
+Hi there!
+
+These are the assignment materials for the "IBM Data Science" course.
+
+This course is offered on Coursera, and I am currently working through it.
+
+I'm grateful to have completed each module. Thank you!
